@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-10-10T10:41:23.935825-04:00",
+  "method": "google_apps_script",
+  "config": {
+    "webapp_url": "https://script.google.com/macros/s/AKfycbzhICMU9P1YEZLL8mN_USrHXqHp9pq4tipwYJ8EpO0rasnVSOXoE9KK47ge7CIs9rwagg/exec",
+    "spreadsheet_name": "manychat",
+    "sheets_mapping": {
+      "detailed": "test",
+      "summary": "test1"
+    },
+    "timeout_seconds": 30,
+    "retry_attempts": 3,
+    "clear_files": true
+  },
+  "results": {
+    "extraction_success": true,
+    "upload_success": true,
+    "cleanup_success": true,
+    "csv_files_processed": [
+      "./csv_output/manychat_detailed_20251010_104117_w6nx4i0p.csv",
+      "./csv_output/manychat_summary_20251010_104117_g68u4wwh.csv"
+    ],
+    "errors": []
+  }
+}

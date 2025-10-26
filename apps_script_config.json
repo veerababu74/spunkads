@@ -1,0 +1,11 @@
+{
+  "webapp_url": "https://script.google.com/macros/s/AKfycbx2snqbNlsKuCG4ktdKWSU8XEaCzm3lamoqrAgxQ0AyAl3Qj3hk5MxccOrOsCIcXM9Srg/exec",
+  "spreadsheet_name": "manychat",
+  "sheets_mapping": {
+    "detailed": "test",
+    "summary": "test1"
+  },
+  "timeout_seconds": 30,
+  "retry_attempts": 3,
+  "clear_files": true
+}

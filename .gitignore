@@ -64,6 +64,7 @@ venv.bak/
 # Project specific
 csv_output/
 json_output/
+t/
 logs/
 *.log
 spam_handler.log
@@ -86,3 +87,7 @@ Thumbs.db
 *.tmp
 chrome_profile/
 browser_cache/
+
+
+# Jupyter Notebook
+t/

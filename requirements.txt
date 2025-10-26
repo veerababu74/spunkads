@@ -12,6 +12,7 @@ pandas==2.3.2
 numpy==2.2.6
 
 # Web automation and browser control
+blinker==1.7.0
 selenium==4.15.2
 selenium-wire==5.1.0
 webdriver-manager==4.0.1
